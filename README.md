@@ -127,4 +127,5 @@ Print all possible outcomes of the Queens in the N-Queens problem.
 
 ## References
 Algorithm (https://en.wikipedia.org/wiki/Backtracking)
+
 Problem (https://en.wikipedia.org/wiki/Constraint_satisfaction_problem)
